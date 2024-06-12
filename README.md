@@ -1,6 +1,6 @@
 # # Embedded Linux Diploma
 
-Welcome to the repository for my Embedded Linux Diploma with Eng. Moatasem Elsayed. This repository showcases the tasks and projects that we accomplished during the diploma program.
+Welcome to the repository for my Embedded Linux Diploma with [Eng. Moatasem Elsayed](https://www.youtube.com/@moatasemelsayed6226). This repository showcases the tasks and projects that we accomplished during the diploma program.
 
 ## About the Diploma
 
