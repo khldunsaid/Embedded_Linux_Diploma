@@ -6,7 +6,7 @@ from time import sleep
 
 sleep(2)
 pyautogui.press('win')
-sleep(2)
+# sleep(2)
 
 pyautogui.write("vscode")
 sleep(2)
@@ -33,7 +33,7 @@ extensions= ["clangd","c++ testmate","c++ helper","cmake","cmake tools"]
 
 for x in extensions:
     pyautogui.hotkey ('ctrlleft','shiftleft','x')
-    sleep(2)
+    # sleep(2)
     pyautogui.press('backspace', presses= 15)
     sleep(2)
     pyautogui.write(x)
